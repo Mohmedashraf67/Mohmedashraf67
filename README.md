@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left"> <a href="https://microsoft.com" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/027/179/360/non_2x/microsoft-excel-icon-logo-symbol-free-png.png" alt="aws" width="60" height="60"/> 
+ <img src="https://images.datacamp.com/image/upload/v1714478776/re388xshtgihucfiiavf.png" alt="powerbi" width="60" height="60"/> 
+ <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" alt="tableau" width="90" height="50"/> 
 
 
 
