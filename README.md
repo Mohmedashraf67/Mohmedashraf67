@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/mohmedashraf67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohmedashraf67" height="30" width="40" /></a>
 <a href="https://instagram.com/mohmedashraf67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohmedashraf67" height="30" width="40" /></a>
  
-  <a href="https://gamma.app/docs/Mohmed-Ashraf-crh61nw0pc69h77" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv7RCv36YVkXob6fUxYAr-WiDkABt28_MRIQ&s" alt="aws" width="40" height="50"/> </a>
+  <a href="https://gamma.app/docs/Mohmed-Ashraf-crh61nw0pc69h77" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv7RCv36YVkXob6fUxYAr-WiDkABt28_MRIQ&s" alt="aws" width="60" height="60"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
